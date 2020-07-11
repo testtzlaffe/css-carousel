@@ -1,6 +1,8 @@
 <h1 align="center">Criando um Carousel do Zero com CSS
 </h1>
 
+<img alt="Imagem da aplicação" src="carousel.png">
+
 <div align="center">
     <img src="https://img.shields.io/badge/carousel-css-purple"/>
 </div>
