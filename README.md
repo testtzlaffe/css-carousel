@@ -9,7 +9,7 @@
 
 ## :rocket: Sobre
 
-Neste pequeno projeto, aprendi a criar um componente "carousel" do zero, apenas com CSS, HTML e JavaScript, baseado no seguinte vídeo do Youtube: <a href="">Criando um Carousel do Zero só com CSS | Code/Drops #39</a>.
+Neste pequeno projeto, aprendi a criar um componente "carousel" do zero, apenas com CSS, HTML e JavaScript, baseado no seguinte vídeo do Youtube: <a href="https://www.youtube.com/watch?v=SGwHpzgqzgk">Criando um Carousel do Zero só com CSS | Code/Drops #39</a>.
 
 A passagem de imagens no "carousel" ocorre com o scroll do mouse, de forma suavizada.
 
